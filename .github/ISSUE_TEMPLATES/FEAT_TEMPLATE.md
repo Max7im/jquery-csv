@@ -14,7 +14,7 @@ A brief description of what the feature aims to accomplish
 - [ ] Is documentation required?
 - [ ] Will you be taking ownership of this change?
 
-*Note: Don't worry about answering yes/no to these. These exist to quickly identify common requirements.*
+*Note: Don't worry about leaving these unchecked. These exist to quickly identify common requirements.*
 
 ## Details
 
