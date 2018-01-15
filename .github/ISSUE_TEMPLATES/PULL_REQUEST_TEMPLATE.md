@@ -1,9 +1,8 @@
-This format is for small changes (ie typos, minor bug fixes).
-
-For significant changes (ie new features, restructuring) considering proposing a new [Feature][Feature].
+If this PR applies to an existing spec, link to it here and skip the rest.
 
 ## Checklist
 
+- [ ] Does this add new features? If so, consider proposing a new [Feature][Feature].
 - [ ] Is this API breaking?
 - [ ] Is this tested?
 - [ ] Is Documentation required?
