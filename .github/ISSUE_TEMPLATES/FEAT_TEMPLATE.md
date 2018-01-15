@@ -22,4 +22,4 @@ Add a loose outline. Don't worry about implementation specifics yet. Feature req
 
 ## References
 
- - reference - [link]()
+ - [name](href)
