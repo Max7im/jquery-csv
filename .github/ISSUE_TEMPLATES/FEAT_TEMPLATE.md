@@ -10,8 +10,8 @@ A brief description of what the feature aims to accomplish
 ## Checklist
 
 - [ ] Is this API breaking?
-- [ ] Testing required?
-- [ ] Documentation required?
+- [ ] Is this tested?
+- [ ] Is documentation required?
 - [ ] Will you be taking ownership of this change?
 
 *Note: Don't worry about answering yes/no to these. These exist to quickly identify common requirements.*
