@@ -27,6 +27,7 @@ Tell us what should happen
 Tell us what happens instead
 
 ## References
+
  - [name](href)
 
 [feature]: https://github.com/evanplaice/jquery-csv/issues/new?template=FEAT_TEMPLATE.md&title=feat()&labels=feature
