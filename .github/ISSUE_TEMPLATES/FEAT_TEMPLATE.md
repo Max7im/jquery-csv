@@ -23,3 +23,5 @@ Add a loose outline. Don't worry about implementation specifics yet. Feature req
 ## References
 
  - [name](href)
+
+*Note: If you're confused and need help getting started, ask lots of questions in the comments. Your contributions are appreciated and your effort is welcome, even if that requires discussing development practices that fall outside the scope of this project.*
