@@ -14,7 +14,7 @@ A brief description of the specification
 
 ## Details
 
-Add code snippets or a more in-depth description of the implementation details
+Add code snippets and/or a more in-depth description of the implementation details
 
 ## References
 
