@@ -1,6 +1,6 @@
-Is this a bug? If not consider asking on [StackOverflow under the jquery-csv tag](https://stackoverflow.com/questions/tagged/jquery-csv?mixed=1).
+Is this a bug? If not consider asking on [StackOverflow][StackOverflow].
 
-Does the documentation require improvement? Consider posting a [Feature][feature] with the the recommended changes.
+Does the documentation require improvement? Consider posting a [Feature][Feature] with the the recommended changes.
 
 # Subject of the issue
 
@@ -30,4 +30,5 @@ Tell us what happens instead
 
  - [name](href)
 
-[feature]: https://github.com/evanplaice/jquery-csv/issues/new?template=FEAT_TEMPLATE.md&title=feat()&labels=feature
+[Feature]: https://github.com/evanplaice/jquery-csv/issues/new?template=FEAT_TEMPLATE.md&title=feat()&labels=feature
+[StackOverflow]: https://stackoverflow.com/questions/tagged/jquery-csv?mixed=1
